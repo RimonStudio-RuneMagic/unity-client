@@ -4,7 +4,7 @@ Client library to start using Rune Magic with Unity
 Example Scene is provided.
 
 ## Installation
-Download the latest unity package from releases section and import to your project.
+Download the latest unity package from [releases](/releases/latest) and import to your project.
 
 After downloading insert the RuneMagicManager prefab to your scene, and fill the Token field with your token.
 
